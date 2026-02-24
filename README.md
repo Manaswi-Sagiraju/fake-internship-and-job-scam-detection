@@ -33,12 +33,9 @@ Fake-Internship-Scam-Detection/
 ├── requirements.txt         # List of dependencies
 ├── fake_job_postings.csv    # Data used for training the model
 ├── Procfile                 # Deployment configuration for Render
+│── style.css            # Styling for the web interface
 │
-├── static/
-│   └── style.css            # Styling for the web interface
-│
-└── templates/
-    └── index.html           # Frontend user interface
+|── index.html           # Frontend user interface
 ```
 
 ### Model Architecture & Workflow
@@ -71,4 +68,5 @@ Chrome Extension: Integrate the model directly into job portals like LinkedIn or
 Explainable AI: Highlights specific words (e.g., "fast cash," "no experience") that triggered the fraud detection.
 
 Real-time Scraping: Automatically fetch and verify latest job posts.
+
 
