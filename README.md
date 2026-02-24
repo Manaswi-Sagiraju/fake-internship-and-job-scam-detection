@@ -1,0 +1,1 @@
+# fake-internship-and-job-scam-detection
