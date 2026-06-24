@@ -9,11 +9,6 @@ In the current job market, scam job postings and fake internships are a growing 
 
 This project is a **Deep Learning-based Web Application** that analyzes job descriptions and predicts whether they are **Legitimate** or **Fraudulent**. It uses Natural Language Processing (NLP) techniques and a trained LSTM (Long Short-Term Memory) neural network to detect patterns common in scam listings.
 
-## 🚀 Live Demo
-You can test the application live here:
-https://fake-internship-and-scam-job-detection.onrender.com/
-
----
 
 ## 🛠️ Tech Stack
 * **Frontend:** HTML5, CSS3, JavaScript
